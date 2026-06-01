@@ -1,7 +1,7 @@
 // Configurações Globais da Loja - Doçuras Geladas
 const STORE_CONFIG = {
     name: "Doçuras Geladas | Chup Chup Gourmet",
-    whatsapp: "5511999999999", // IMPORTANTE: Substitua pelo número real do lojista (com DDI e DDD, sem espaços ou traços)
+    whatsapp: "5527992870668", // Número real do proprietário (DDI + DDD + Telefone)
     deliveryFee: 5.00,        // Taxa de entrega fixa (0 para grátis)
     currency: "R$",           // Símbolo monetário
     instagram: "@chupchupgoumetdocurasgelada", // Instagram Real da loja
