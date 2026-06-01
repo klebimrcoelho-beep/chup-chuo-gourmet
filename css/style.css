@@ -1046,7 +1046,7 @@ footer.main-footer {
     }
     
     .hero-banner-single {
-        height: 320px;
+        height: auto;
         margin-top: 1rem;
     }
     
