@@ -30,7 +30,7 @@ const PRODUCTS = [
         category: "gourmet",
         price: 7.00,
         description: "O queridinho do catálogo! Creme super aveludado de Leite Ninho original recheado com bastante creme de avelã Nutella genuíno.",
-        image: "file:///C:/Users/HOME/.gemini/antigravity-ide/brain/551be9e3-21bc-4801-b1f9-617592fd92b4/chup_ninho_nutella_1780059114926.png",
+        image: "imagens/Instagram_files/chup_ninho_nutella.png",
         badge: "Mais Vendido"
     },
     {
@@ -39,7 +39,7 @@ const PRODUCTS = [
         category: "gourmet",
         price: 7.50,
         description: "Mousse artesanal de morangos selecionados combinado com uma generosa camada de Nutella cremosa. A união perfeita do azedinho com o doce.",
-        image: "file:///C:/Users/HOME/.gemini/antigravity-ide/brain/551be9e3-21bc-4801-b1f9-617592fd92b4/chup_sensacao_1780059299000.png",
+        image: "imagens/Instagram_files/chup_sensacao.png",
         badge: "Irresistível"
     },
     {
@@ -48,7 +48,7 @@ const PRODUCTS = [
         category: "frutados",
         price: 6.00,
         description: "Delicioso mousse cremoso de maracujá feito com a fruta pura. Acompanha sementes crocantes e calda artesanal no fundo do saquinho.",
-        image: "file:///C:/Users/HOME/.gemini/antigravity-ide/brain/551be9e3-21bc-4801-b1f9-617592fd92b4/chup_maracuja_1780060837143.png",
+        image: "imagens/Instagram_files/chup_maracuja.png",
         badge: "Refrescante"
     },
     {
@@ -57,7 +57,7 @@ const PRODUCTS = [
         category: "gourmet",
         price: 7.00,
         description: "Base super cremosa de baunilha mesclada com pedacinhos crocantes de biscoito Oreo original. Textura inigualável e muito saborosa.",
-        image: "file:///C:/Users/HOME/.gemini/antigravity-ide/brain/551be9e3-21bc-4801-b1f9-617592fd92b4/chup_oreo_1780060857171.png",
+        image: "imagens/Instagram_files/chup_oreo.png",
         badge: "Favorito"
     }
 ];
